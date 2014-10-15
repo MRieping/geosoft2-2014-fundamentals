@@ -3,9 +3,7 @@
 ___
 _Was ist Software Engineering?_ 
 --
->.. systematischer, disziplinierter und in seiner 
-> Größe abschätzbarer Ansatz, Software zu 
-> entwickeln, zu betreiben und zu warten
+>.. systematischer, disziplinierter und in seiner Größe abschätzbarer Ansatz, Software zu entwickeln, zu betreiben und zu warten
 
 _Ziele:_
 
@@ -16,7 +14,9 @@ Die Qualität einer Software basiert unter anderem auf der Funktionserfüllung, 
 
 Ziele des Software Engineering stehen im Widerspruch:
 
-![Alt-Text](http://www.christian-rehn.de/wp-content/uploads/2011/02/teufelsquadrat-300x243.png)(Teufelsquardrat nach Sneed)
+###Teufelsquardrat nach Sneed
+
+![Alt-Text](http://www.christian-rehn.de/wp-content/uploads/2011/02/teufelsquadrat-300x243.png)
 
  Es leidet automatisch die Qualität und der Leistungsumfang eines Produktes, sobald man zu sehr an Zeit und Kosten spart.
 
@@ -44,15 +44,6 @@ V-Modell
 
 ![Alt-Text](http://www.evas.de/wordpress/wp-content/uploads/2011/02/v-modell.jpg)
 
-Agiles Software Engineering
---
-
-* Schnelles Reagieren auf auf geänderte Rahmenbedingungen
-* Enge Zusammenarbeit mit dem Auftraggeber
-* Vorteil bei Projekten mit noch unklaren Anforderungen oder das Produkt starken Veränderungen unterliegen kann
-* Weniger bürokratischer Aufwand
-* Kommunikation ist Trumpf
-
 Spiralmodell
 --
 Es ist möglich, nach jedem Durchgang das Vorgehen zu ändern, bzw. an gegebene Faktoren anzupassen, z.B.
@@ -64,8 +55,18 @@ Es ist möglich, nach jedem Durchgang das Vorgehen zu ändern, bzw. an gegebene 
 
 ![Alt-Text](http://members.it4education.at/fubbcontent/lektionen/letzte_lieferungen/Phasenmodelle/data/images/spiralmodell.gif)
 
+Agiles Software Engineering
+--
+
+* Schnelles Reagieren auf auf geänderte Rahmenbedingungen
+* Enge Zusammenarbeit mit dem Auftraggeber
+* Vorteil bei Projekten mit noch unklaren Anforderungen oder das Produkt starken Veränderungen unterliegen kann
+* Weniger bürokratischer Aufwand
+* Kommunikation ist Trumpf
+
 Extreme Programming
 --
+* Ein Vorgehensmodell der Agilen Softwareentwicklung
 * Die eigentliche Programmierung wird in den Vordergrund gestellt
 * Andere Entwicklungsphasen haben weniger Gewicht
 * Es wird nach Story-Cards gearbeitet
@@ -78,19 +79,55 @@ Extreme Programming
 Literatur:
 --
 
-Matyba, S. (o.J.): Klausurvorbereitung Software Engineering I @ TFH Berlin. Online unter: 
-www.neoberserker.de/ftp/ftp2/KV_SE_Steps_180107_1554.pdf(abgerufen am 01.10.2014)
+__Allgemein Software Engineering:__ 
 
-http://www.scrum-kompakt.de/grundlagen-des-projektmanagements/agile-vorgehensmodelle/
-(zuletzt abgerufen am 01.10.2014)
+* Matyba, S. (o.J.): Klausurvorbereitung Software Engineering I @ TFH Berlin. Online unter: 
+[http://www.neoberserker.de/ftp/ftp2/KV_SE_Steps_180107_1554.pdf](http://www.neoberserker.de/ftp/ftp2/KV_SE_Steps_180107_1554.pdf) (zuletzt abgerufen am 15.10.2014)
+
+* [http://www.enzyklopaedie-der-wirtschaftsinformatik.de/wi-enzyklopaedie/lexikon/is-management/Systementwicklung/software-engineering](http://www.enzyklopaedie-der-wirtschaftsinformatik.de/wi-enzyklopaedie/lexikon/is-management/Systementwicklung/software-engineering) (zuletzt abgerufen am 15.10.2014)
+
+__Teufelsquadrat nach Sneed:__ 
+
+* [http://cio-blog.de/den-teufel-bei-den-hoernern-gepackt-projektsteuerung-nach-harry-m-sneed/#sthash.td4EKeIw.dpbs](http://cio-blog.de/den-teufel-bei-den-hoernern-gepackt-projektsteuerung-nach-harry-m-sneed/#sthash.td4EKeIw.dpbs) (zuletzt abgerufen am 15.10.2014)
+
+__Wasserfallmodell:__ 
+
+* [http://www.enzyklopaedie-der-wirtschaftsinformatik.de/wi-enzyklopaedie/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell](http://www.enzyklopaedie-der-wirtschaftsinformatik.de/wi-enzyklopaedie/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell) (zuletzt abgerufen am 15.10.2014)
+
+* [http://de.wikipedia.org/wiki/Wasserfallmodell](http://de.wikipedia.org/wiki/Wasserfallmodell) (zuletzt abgerufen am 15.10.2014)
+
+__V-Modell:__
+
+* [http://de.wikipedia.org/wiki/V-Modell](http://de.wikipedia.org/wiki/V-Modell) (zuletzt abgerufen am 15.10.2014)
+
+__Spiralmodell:__ 
+
+* [http://www.enzyklopaedie-der-wirtschaftsinformatik.de/wi-enzyklopaedie/lexikon/is-management/Systementwicklung/Vorgehensmodell/Spiralmodell](http://www.enzyklopaedie-der-wirtschaftsinformatik.de/wi-enzyklopaedie/lexikon/is-management/Systementwicklung/Vorgehensmodell/Spiralmodell) (zuletzt abgerufen am 15.10.2014)
+
+* [http://de.wikipedia.org/wiki/Spiralmodell](http://de.wikipedia.org/wiki/Spiralmodell) (zuletzt abgerufen am 15.10.2014)
+
+__Agile Methoden:__ 
+
+* [http://www.scrum-kompakt.de/grundlagen-des-projektmanagements/agile-vorgehensmodelle/](http://www.scrum-kompakt.de/grundlagen-des-projektmanagements/agile-vorgehensmodelle/)
+(zuletzt abgerufen am 15.10.2014)
+
+__Extreme Programming:__
+
+* [http://www.scrum-kompakt.de/grundlagen-des-projektmanagements/extreme-programming-xp/](http://www.scrum-kompakt.de/grundlagen-des-projektmanagements/extreme-programming-xp/) (zuletzt abgerufen am 15.10.2014)
+
+* [http://www.frankwestphal.de/ExtremeProgramming.html](http://www.frankwestphal.de/ExtremeProgramming.html) (zuletzt abgerufen am 15.10.2014)
+
+* [http://de.wikipedia.org/wiki/Extreme_Programming](http://de.wikipedia.org/wiki/Extreme_Programming) (zuletzt abgerufen am 15.10.2014)
+
+
 
 __*Abbildungen*__
 
-Abbildung 1: Teufelsquadrat nach Sneed. Online unter http://www.christian-rehn.de/wp-content/uploads/2011/02/teufelsquadrat-300x243.png
+Abbildung 1: Teufelsquadrat nach Sneed. Online unter [http://www.christian-rehn.de/wp-content/uploads/2011/02/teufelsquadrat-300x243.png](http://www.christian-rehn.de/wp-content/uploads/2011/02/teufelsquadrat-300x243.png)
 
-Abbildung 2: Wasserfallmodell. Online unter http://www.scrum-kompakt.de/files/2010/04/Wasserfall-1-02.jpg
+Abbildung 2: Wasserfallmodell. Online unter [http://www.scrum-kompakt.de/files/2010/04/Wasserfall-1-02.jpg](http://www.scrum-kompakt.de/files/2010/04/Wasserfall-1-02.jpg)
 
-Abbildung 3: V-Modell. Online unter http://www.evas.de/wordpress/wp-content/uploads/2011/02/v-modell.jpg
+Abbildung 3: V-Modell. Online unter [http://www.evas.de/wordpress/wp-content/uploads/2011/02/v-modell.jpg](http://www.evas.de/wordpress/wp-content/uploads/2011/02/v-modell.jpg)
 
-Abbildung 4: Spiralmodell. Online unter http://members.it4education.at/fubbcontent/lektionen/letzte_lieferungen/Phasenmodelle/data/images/spiralmodell.gif 
+Abbildung 4: Spiralmodell. Online unter [http://members.it4education.at/fubbcontent/lektionen/letzte_lieferungen/Phasenmodelle/data/images/spiralmodell.gif](http://members.it4education.at/fubbcontent/lektionen/letzte_lieferungen/Phasenmodelle/data/images/spiralmodell.gif)
 
