@@ -20,7 +20,7 @@ _Entwicklungsteam_
 
 	 ● Implementierung der Produktfunktionalitäten
 	 ● Schätzung des Umfangs der Tasks aus dem Product Backlog
-	 ● Selbstorganisation des Arbeit
+	 ● Selbstorganisation der Arbeit
 	 ● 3 – 9 Personen
 	   
 
@@ -32,7 +32,7 @@ _[Scrum Master](http://scrum-master.de/Scrum-Rollen/Scrum-Rollen_ScrumMaster)_
 
 _[Product owner](http://scrum-master.de/Scrum-Rollen/Scrum-Rollen_Product_Owner)_
 
-	 ● Verantwortlich für den wirtscahftlichen Erfolg
+	 ● Verantwortlich für den wirtschaftlichen Erfolg
      ● Bindeglied zwischen Entwicklungsteam und Stakeholdern
 	 ● Aktualisiert Product Backlog
 	 ● Abnahme der Zwischenprodukte
