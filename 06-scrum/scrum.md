@@ -78,6 +78,22 @@ Meetings
 	 ● In wie weit hat die Anwendung von Scrum im Sprint Funktioniert
 	 ● Auch in Bezug auf kommende Sprints
 
+
+
+Empfehlung
+-
+
+Alle Paradigmen der Scrum-Methodik werden in unserem Projekt schwer anzuwenden sein,
+da Scrum Zeit zum erlernen kostet, nicht alle Gruppenmitglieder auf dem gleichen Wissensstand sind und zuvor noch nicht in einem Entwicklungsteam
+gearbeitet haben und  die Gruppenmitglieder nicht Vollzeit an dem Projekt arbeiten können, da sie auch noch andere Kurse und Verpflichtungen
+rund um die Uni haben. Daher empfiehlt es sich, nur die grundlegenden Aspekte von Scrum einzuhalten.
+Darunter wäre vorallem das Einteilen des Projekts in User-Stories, um einen besseren Überblick über das Projekt 
+zu erlangen und die Aufgaben auf die Gruppenmitglieder bestmöglich aufteilen zu können.
+Weiter empfiehlt es sich, regelmäßige Treffen der Gruppe zu veranstalten, bei denen jeder die anderen über den Stand 
+seiner aktuellen Aufgaben informiert. Dadurch kann jedes Gruppenmitglied die Entwicklung des Projekts besser verfolgen und
+weiß zu jeder Zeit, an welchen Aufgaben seine Teammitglieder arbeiten. Weiterhin erkennt man so schnell an welchen
+Stellen im Projekt es zu Verzögerungen kommt und wie man diesen am Besten vorbeugt.
+
 Literatur
 --
 [http://scrum-master.de/Was_ist_Scrum/Scrum_auf_einer_Seite_erklaert](http://scrum-master.de/Was_ist_Scrum/Scrum_auf_einer_Seite_erklaert)
