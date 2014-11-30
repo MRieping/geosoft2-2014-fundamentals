@@ -1,11 +1,22 @@
- Software Engineering Methoden
+Software Engineering Methoden
 ==
 ___
-_Was ist Software Engineering?_ 
+
+#Inhalt
+1. Was ist Software Engineering?
+2. Wasserfallmodell
+3. V-Modell
+4. Spiralmodell
+5. Agiles Software Engineering
+6. Extreme Programming
+7. Einschätzung
+8. Literatur & Abbildungen
+
+1. Was ist Software Engineering? 
 --
 >.. systematischer, disziplinierter und in seiner Größe abschätzbarer Ansatz, Software zu entwickeln, zu betreiben und zu warten
 
-_Ziele:_
+Ziele:
 
 * Zeit und Kosten sparen
 * Qualität und Produktivität erhöhen
@@ -23,7 +34,7 @@ Ziele des Software Engineering stehen im Widerspruch:
 
 
 
-Wasserfallmodell
+2. Wasserfallmodell
 --
 
 * Linear mit festen Phasen
@@ -34,7 +45,7 @@ Wasserfallmodell
 
 ![Alt-text](http://www.scrum-kompakt.de/files/2010/04/Wasserfall-1-02.jpg)
 
-V-Modell
+3. V-Modell
 --
 
 * Erweiterung des Wasserfallmodells
@@ -44,7 +55,7 @@ V-Modell
 
 ![Alt-Text](http://www.evas.de/wordpress/wp-content/uploads/2011/02/v-modell.jpg)
 
-Spiralmodell
+4. Spiralmodell
 --
 Es ist möglich, nach jedem Durchgang das Vorgehen zu ändern, bzw. an gegebene Faktoren anzupassen, z.B.
 
@@ -55,7 +66,7 @@ Es ist möglich, nach jedem Durchgang das Vorgehen zu ändern, bzw. an gegebene 
 
 ![Alt-Text](http://members.it4education.at/fubbcontent/lektionen/letzte_lieferungen/Phasenmodelle/data/images/spiralmodell.gif)
 
-Agiles Software Engineering
+5. Agiles Software Engineering
 --
 
 * Schnelles Reagieren auf auf geänderte Rahmenbedingungen
@@ -64,7 +75,7 @@ Agiles Software Engineering
 * Weniger bürokratischer Aufwand
 * Kommunikation ist Trumpf
 
-Extreme Programming
+6. Extreme Programming
 --
 * Ein Vorgehensmodell der Agilen Softwareentwicklung
 * Die eigentliche Programmierung wird in den Vordergrund gestellt
@@ -76,7 +87,12 @@ Extreme Programming
 * Kunde gibt laufend Feedback
 * Wenig Dokumentation
 
-Literatur:
+7. Einschätzung
+--
+
+Für umfangreiche und komplexe Softwareprojekte sind agile Softwareentwicklungsmethoden absolut unumgänglich. Durch die Komplexität, wie z.B. mehrerer Softwarekomponenten und Flexibilität, wie Änderungswünsche durch den Kunden sind die klassischen Methoden nicht dynamisch genug, um auf solche Gegebenheiten zu in angemessener Zeit zu reagieren. Daher ist z.B. ein Wasserfallmodell heutzutage überhaupt nicht mehr empfehlenswert.
+
+8. Literatur
 --
 
 __Allgemein Software Engineering:__ 
@@ -130,4 +146,3 @@ Abbildung 2: Wasserfallmodell. Online unter [http://www.scrum-kompakt.de/files/2
 Abbildung 3: V-Modell. Online unter [http://www.evas.de/wordpress/wp-content/uploads/2011/02/v-modell.jpg](http://www.evas.de/wordpress/wp-content/uploads/2011/02/v-modell.jpg)
 
 Abbildung 4: Spiralmodell. Online unter [http://members.it4education.at/fubbcontent/lektionen/letzte_lieferungen/Phasenmodelle/data/images/spiralmodell.gif](http://members.it4education.at/fubbcontent/lektionen/letzte_lieferungen/Phasenmodelle/data/images/spiralmodell.gif)
-
