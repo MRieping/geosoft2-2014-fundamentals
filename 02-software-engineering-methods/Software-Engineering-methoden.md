@@ -1,8 +1,7 @@
-Software Engineering Methoden
-==
+# Software Engineering Methoden #
 ___
 
-#Inhalt
+## Inhalt ##
 1. Was ist Software Engineering?
 2. Wasserfallmodell
 3. V-Modell
@@ -25,7 +24,7 @@ Die Qualität einer Software basiert unter anderem auf der Funktionserfüllung, 
 
 Ziele des Software Engineering stehen im Widerspruch:
 
-###Teufelsquardrat nach Sneed
+### Teufelsquardrat nach Sneed ###
 
 ![Alt-Text](http://www.christian-rehn.de/wp-content/uploads/2011/02/teufelsquadrat-300x243.png)
 
